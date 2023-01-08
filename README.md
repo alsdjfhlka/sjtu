@@ -1,1 +1,1 @@
-# sjtu-ji-data
+# sjtu
