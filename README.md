@@ -21,7 +21,7 @@ create a website demo
 
 ## Insert an image
 
-![QR code!](./images/qr.jpeg "QR code")
+
 
 
 ## Markdown guide
