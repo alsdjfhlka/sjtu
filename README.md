@@ -15,6 +15,9 @@ This paper makes use of the background data of "you ask, I answer", conducts dat
 2、similar official account "suishenban"：Many appeals submitted by residents were made public, and residents could choose whether to have their appeals publicized to increase the visibility of the incident.
 ![随申办!](./photo/2.jpg "随申办")
 ### ②About the attention of the public number
+1、We have noticed that the main reason for the increase of users is the registration of information necessary during the epidemic period. 
+![公众号推文!](./photo/1.jpg " 公众号推文")
+Therefore, such a short and large increase in users does not represent the success of the publicity work. After the registration of the epidemic information, the number of active users may be very small.
 1、We have noticed that the main reason for the increase of users is the registration of information necessary during the epidemic period. Therefore, such a short and large increase in users does not represent the success of the publicity work. After the registration of the epidemic information, the number of active users may be very small.
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
