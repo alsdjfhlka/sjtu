@@ -13,7 +13,7 @@ This paper makes use of the background data of "you ask, I answer", conducts dat
 1、the condition of "wenxujinshan" ：The official account has disclosed some of the process of solving the problem, including photos of the disposal site, but it is up to the official account to decide whether to disclose it.
 
 2、similar official account "suishenban"：Many appeals submitted by residents were made public, and residents could choose whether to have their appeals publicized to increase the visibility of the incident.
-![随申办!]<img src="" width = "200" height = "300" alt="" align=center />(./photo/2.jpg "随申办")
+![随申办!](./photo/2.jpg "随申办")
 ### ②About the attention of the public number
 1、We have noticed that the main reason for the increase of users is the registration of information necessary during the epidemic period. 
 ![公众号推文!](./photo/1.jpg " 公众号推文")
