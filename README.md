@@ -7,7 +7,7 @@ This paper makes use of the background data of "you ask, I answer", conducts dat
 
 # Method
 ## I.Identify the research object
-  Once the direction is clear, the first problem is the choice of research objects. We pay attention to ask need Kingsoft this public number. Since this official account has not long started and there are relatively many technologies and improvements that can be applied, we put forward some new ideas that can be applied to the operation of the official account of "wenxujinshan" based on the appeal data from August to December 2022.
+  Once the direction is clear, the first problem is the choice of research objects. We pay attention to "you ask, I answer". Since this official account has not long started and there are relatively many technologies and improvements that can be applied, we put forward some new ideas that can be applied to the operation of the official account of "wenxujinshan" based on the appeal data from August to December 2022.
 ## II.Data inquiry
 ### ①The "publicity" function of public account
 1、the condition of "wenxujinshan" ：The official account has disclosed some of the process of solving the problem, including photos of the disposal site, but it is up to the official account to decide whether to disclose it.
