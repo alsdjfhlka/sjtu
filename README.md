@@ -20,10 +20,12 @@
 
 ## （三）实际数据
 ###  ①关于无效信息
-在你呼我应板块，我们总共有463个你呼我应的数据，其中官方的通知有146个；同时，我们通过筛选电话号以及姓名查到36条重复的诉求。这两类无效信息在总共的你呼我应诉求中占比39.3%。无效信息占比大，对于处理诉求的工作人员是一种负担。
+在你呼我应板块，我们总共有462个你呼我应的数据，其中官方的通知有146个；同时，我们通过筛选电话号以及姓名查到36条重复的诉求。这两类无效信息在总共的你呼我应诉求中占比39.39%。无效信息占比大，对于处理诉求的工作人员是一种负担。
  
 ###  ②关于类似诉求
-我们在总共的463条数据中，发现了其中有很多高频出现的词语，如图所示（这里需要 比如共享单车，垃圾 词条占比的统计图）。基于此，我们发现通过关键词检索，可以对事件进行快速分类并分配到负责人，大大提高了工作效率。同时，这也可以为工作人员解决问题的优先级提供建议，我们可以选择优先解决社区公共事务，然后将这些诉求的解决过程和结果通过公众号推文的形式公示，从而让民众看到工作人员在努力解决他们的普遍需求，久而久之形成良好口碑，这样关注量也会随之上涨。
+我们在总共的462条数据中，发现了其中有很多高频出现的词语，如图所示。
+<div>                            <div id="5bfe45c9-6c63-4425-affd-92d8a65f82e3" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("5bfe45c9-6c63-4425-affd-92d8a65f82e3")) {                    Plotly.newPlot(                        "5bfe45c9-6c63-4425-affd-92d8a65f82e3",                        [{"alignmentgroup":"True","bingroup":"x","histfunc":"sum","hovertemplate":"\u9ad8\u9891\u8bcd=%{x}<br>sum of \u51fa\u73b0\u6b21\u6570=%{y}<extra></extra>","legendgroup":"","marker":{"color":"#1F77B4","pattern":{"shape":""}},"name":"","offsetgroup":"","orientation":"v","showlegend":false,"x":["\u5176\u4ed6","\u8def\u706f\u635f\u574f","\u5360\u9053","\u5783\u573e","\u8f66\u8f86\u95ee\u9898"],"xaxis":"x","y":[59,4,12,171,70],"yaxis":"y","type":"histogram"}],                        {"barmode":"relative","legend":{"tracegroupgap":0},"template":{"data":{"pie":[{"automargin":true,"type":"pie"}],"scatter3d":[{"line":{"width":3},"marker":{"size":9},"type":"scatter3d"}],"scattergeo":[{"line":{"width":3},"marker":{"size":9},"type":"scattergeo"}],"scattergl":[{"line":{"width":3},"marker":{"size":9},"type":"scattergl"}],"scatterpolargl":[{"line":{"width":3},"marker":{"size":9},"type":"scatterpolargl"}],"scatterpolar":[{"line":{"width":3},"marker":{"size":9},"type":"scatterpolar"}],"scatter":[{"line":{"width":3},"marker":{"size":9},"type":"scatter"}],"scatterternary":[{"line":{"width":3},"marker":{"size":9},"type":"scatterternary"}],"table":[{"cells":{"height":30},"header":{"height":36},"type":"table"}]},"layout":{"font":{"size":18},"xaxis":{"title":{"standoff":15}},"yaxis":{"title":{"standoff":15}}}},"title":{"text":"\u5404\u7c7b\u9ad8\u9891\u8bcd\u5728\u4f60\u547c\u6211\u5e94\u4e2d\u51fa\u73b0\u7684\u6b21\u6570"},"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":"\u9ad8\u9891\u8bcd"}},"yaxis":{"anchor":"x","domain":[0.0,1.0],"title":{"text":"sum of \u51fa\u73b0\u6b21\u6570"}}},                        {"responsive": true}                    )                };                            </script>        </div>
+基于此，我们发现通过关键词检索，可以对事件进行快速分类并分配到负责人，大大提高了工作效率。同时，这也可以为工作人员解决问题的优先级提供建议，我们可以选择优先解决社区公共事务，然后将这些诉求的解决过程和结果通过公众号推文的形式公示，从而让民众看到工作人员在努力解决他们的普遍需求，久而久之形成良好口碑，这样关注量也会随之上涨。
 
 # 二、改进措施
 ## （一）关于提高处理诉求效率：
