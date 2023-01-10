@@ -18,7 +18,7 @@ This paper makes use of the background data of "you ask, I answer", conducts dat
 
 ### ②About the attention of the public number
 1、We have noticed that the main reason for the increase of users is the registration of information necessary during the epidemic period. 
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://github.com/alsdjfhlka/sjtu-ji-data/blob/main/photo/2.jpg" width="200" height="200" alt="微信小程序"/><br/>
 
 ![公众号推文!](./photo/1.jpg)
 Therefore, such a short and large increase in users does not represent the success of the publicity work. After the registration of the epidemic information, the number of active users may be very small.
